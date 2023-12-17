@@ -33,6 +33,8 @@ SOURCES += \
     main.cpp \
     mainwindow.cpp \
     headerbar.cpp \
+    vehicleitemmodel.cpp \
+    vehicleitemnode.cpp \
     vehiclepage.cpp \
     branditemmodel.cpp \
     simpleecudatabase.cpp
@@ -45,9 +47,10 @@ HEADERS += \
     livedatapage.h \
     mainwindow.h \
     headerbar.h \
+    vehicleitemmodel.h \
+    vehicleitemnode.h \
     vehiclepage.h \
     iadapter.h \
-    adapterelmwidget.h \
     branditemmodel.h \
     iecudatabase.h \
     simpleecudatabase.h
