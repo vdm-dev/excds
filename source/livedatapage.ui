@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>LiveDataPage</class>
+ <widget class="QWidget" name="LiveDataPage">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>400</width>
+    <height>300</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Live Data</string>
+  </property>
+  <property name="windowIcon">
+   <iconset resource="src.qrc">
+    <normaloff>:/images/icon_live_data_normal.png</normaloff>
+    <disabledoff>:/images/icon_live_data_disabled.png</disabledoff>
+    <selectedoff>:/images/icon_live_data_selected.png</selectedoff>:/images/icon_live_data_normal.png</iconset>
+  </property>
+ </widget>
+ <resources>
+  <include location="src.qrc"/>
+ </resources>
+ <connections/>
+</ui>

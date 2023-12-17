@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/button_start_disabled.png</file>
+        <file>images/button_start_normal.png</file>
+        <file>images/button_stop_disabled.png</file>
+        <file>images/button_stop_normal.png</file>
+        <file>images/button_stop_yellow.png</file>
+        <file>images/icon_adapter_disabled.png</file>
+        <file>images/icon_adapter_normal.png</file>
+        <file>images/icon_adapter_selected.png</file>
+        <file>images/icon_dtc_disabled.png</file>
+        <file>images/icon_dtc_normal.png</file>
+        <file>images/icon_dtc_selected.png</file>
+        <file>images/icon_live_data_disabled.png</file>
+        <file>images/icon_live_data_normal.png</file>
+        <file>images/icon_live_data_selected.png</file>
+        <file>images/icon_vehicle_disabled.png</file>
+        <file>images/icon_vehicle_normal.png</file>
+        <file>images/icon_vehicle_selected.png</file>
+        <file>images/status_ecu_green.png</file>
+        <file>images/status_ecu_red.png</file>
+        <file>images/adapter/icon_elm.png</file>
+        <file>images/adapter/photo_elm.jpg</file>
+        <file>images/brands/hyundai.png</file>
+        <file>images/brands/kia.png</file>
+        <file>images/brands/unknown.png</file>
+    </qresource>
+</RCC>
