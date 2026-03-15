@@ -24,5 +24,6 @@
         <file>images/brands/hyundai.png</file>
         <file>images/brands/kia.png</file>
         <file>images/brands/unknown.png</file>
+        <file>data/vehicles.xml</file>
     </qresource>
 </RCC>

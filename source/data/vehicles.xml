@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brands>
+    <brand name="OBD2">
+        <image>:/images/brands/unknown.png</image>
+        <description></description>
+        <models>
+            <model name="Model Name">
+                <image></image>
+                <description></description>
+                <generations>
+                    <generation name="Generation Name">
+                        <image></image>
+                        <description></description>
+                        <modules>
+                            <module name="Module Name">
+                                <image></image>
+                                <description></description>
+                                <uuid></uuid>
+                            </module>
+                        </modules>
+                    </generation>
+                </generations>
+            </model>
+        </models>
+    </brand>
+    </book>
+</brands>

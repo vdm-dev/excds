@@ -48,6 +48,7 @@
 #include <QLineEdit>
 #include <QMenuBar>
 #include <QPainter>
+#include <QPainterPath>
 #include <QPixmap>
 #include <QPixmapCache>
 #include <QPushButton>
